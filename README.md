@@ -6,9 +6,9 @@ Here are examples educational projects I have completed as part of the "Data Ana
 
 # Описания проектов / Projects Descriptions
 
-Все проекты выполнены в Jupiter. Язык проектов - русский. Датасеты не представлены в проектах. 
+Все проекты выполнены в Jupiter. Язык проектов - русский.
 
-All projects are made in Jupiter. The project language is Russian. Datasets are not presented in projects.
+All projects are made in Jupiter. The project language is Russian. 
 
 | Проект / Projects | Цель исследования / Research objective | Навыки и инструменты / Skills and tools | 
 | :---------------------- | :---------------------- | :---------------------- |

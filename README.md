@@ -6,9 +6,9 @@ Here are examples educational projects I have completed as part of the "Data Ana
 
 # Описания проектов / Projects Descriptions
 
-Все проекты выполнены в Jupiter. Язык проектов - русский.
+Все проекты выполнены в Jupiter. Язык - русский. Язык программирования - Python.
 
-All projects are made in Jupiter. The project language is Russian. 
+All projects are made in Jupiter. Russian language. Programming language - Python.
 
 | Проект / Projects | Цель исследования / Research objective | Навыки и инструменты / Skills and tools | 
 | :---------------------- | :---------------------- | :---------------------- |

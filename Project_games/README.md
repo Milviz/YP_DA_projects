@@ -23,7 +23,7 @@ The parameters that determine the success of the game in different regions of th
 ## Навыки и инструменты / Skills and tools
 
 `plotly`, `matplotlib`, `numpy`, `seaborn`
-
+#
 `предобработка данных`, `исследовательский анализ данных`, `проверка статистических гипотез`, `описательная статистика`, `визуализация данных`
 
 `data preprocessing`, `exploratory data analysis`, `testing of statistical hypotheses`, `descriptive statistics`, `data visualization`
